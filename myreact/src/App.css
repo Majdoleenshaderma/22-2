@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.price {
+  display: flex;
+}
+
+#prc1 {
+  background-color: brown;
+}
+
+#prc2 {
+  background-color: chocolate;
+}
+
+#prc3 {
+  background-color: yellow;
+}
+
+#prc4 {
+  background-color: steelblue;
+}
