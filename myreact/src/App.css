@@ -4,20 +4,21 @@
 
 .price {
   display: flex;
+  gap: 10px;
 }
 
-#prc1 {
+#p1 {
   background-color: brown;
 }
 
-#prc2 {
+#p2 {
   background-color: chocolate;
 }
 
-#prc3 {
+#p3 {
   background-color: yellow;
 }
 
-#prc4 {
+#p4 {
   background-color: steelblue;
 }
